@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Cassia.
+## My name is Cassia, welcome to my git
 
 <div>
 <a href="https://github.com/cassiamoraes">
