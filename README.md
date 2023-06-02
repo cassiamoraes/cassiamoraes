@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## My name is Cassia, welcome to my git
 No último ano eu resolvi aprender novas tecnologias e codificar novamente. Estou no mundo da tecnologia desde 2014, e nunca mais sai.
+
 In the last year I resolve to learn new technologies and code again. I've been living in the tech world since 2014, and I never leave.
 
 ## Languages
